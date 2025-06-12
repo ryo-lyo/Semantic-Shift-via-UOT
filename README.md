@@ -9,7 +9,7 @@
     <th colspan="2" style="text-align:center;">Optimal Transport</th>
   </tr>
   <tr>
-    <td><img src="assets/OT_illust.png" width="75%"></td>
+    <td><img src="assets/OT_illust.png" width="95%"></td>
   </tr>
 </table>
 <table>
@@ -17,7 +17,7 @@
     <th colspan="2" style="text-align:center;">Unbalanced Optimal Transport</th>
   </tr>
   <tr>
-    <td><img src="assets/UOT_illust.png" width="75%"></td>
+    <td><img src="assets/UOT_illust.png" width="95%"></td>
   </tr>
 </table>
 </div>
