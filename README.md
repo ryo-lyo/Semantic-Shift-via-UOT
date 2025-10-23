@@ -184,7 +184,7 @@ $ python src/table4.py
 
 ## Citation
 
-If you find our code or data useful in your research, please cite our paper. Until the official ACL Anthology version is available, please cite the arXiv version as follows:
+If you find our code or data useful in your research, please cite our paper:
 
 ```bibtex
 @inproceedings{DBLP:conf/acl/KishinoYNYS25,
