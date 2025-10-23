@@ -187,14 +187,27 @@ $ python src/table4.py
 If you find our code or data useful in your research, please cite our paper. Until the official ACL Anthology version is available, please cite the arXiv version as follows:
 
 ```bibtex
-@misc{kishino2025quantifyinglexicalsemanticshift,
-      title={Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport}, 
-      author={Ryo Kishino and Hiroaki Yamagiwa and Ryo Nagata and Sho Yokoi and Hidetoshi Shimodaira},
-      year={2025},
-      eprint={2412.12569},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2412.12569}, 
+@inproceedings{DBLP:conf/acl/KishinoYNYS25,
+  author       = {Ryo Kishino and
+                  Hiroaki Yamagiwa and
+                  Ryo Nagata and
+                  Sho Yokoi and
+                  Hidetoshi Shimodaira},
+  editor       = {Wanxiang Che and
+                  Joyce Nabende and
+                  Ekaterina Shutova and
+                  Mohammad Taher Pilehvar},
+  title        = {Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport},
+  booktitle    = {Proceedings of the 63rd Annual Meeting of the Association for Computational
+                  Linguistics (Volume 1: Long Papers), {ACL} 2025, Vienna, Austria,
+                  July 27 - August 1, 2025},
+  pages        = {15913--15933},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2025},
+  url          = {https://aclanthology.org/2025.acl-long.774/},
+  timestamp    = {Wed, 24 Sep 2025 15:22:07 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/KishinoYNYS25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
